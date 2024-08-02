@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there good to see you in my space, you are welcome 👋
 
-<!--
-**tvnn/tvnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on software engineer, performer fullstack form by @rocketseat
+- 🌱 I’m currently learning about the platform @ServiceNow and studying another technologies like - React.js, Node.js, MySql and more...
+- 📫 How to reach me:
+- ------------------------------------------------------------------------------------------------------
+- <a href="https://https://www.linkedin.com/in/otavio-custodio-7b28b122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href = "mailto:otaviorocha36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- ------------------------------------------------------------------------------------------------------
+- ⚡ Fun fact: just an enthusiasm of development and games.
 
-Here are some ideas to get you started:
+- 👌 Software engineer -
+--------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BACK-END;
+
+Node.JS: Express, Typescript;
+Banco de dados: MSSQL, MySQL;
+
+FRONT-END;
+
+HTML5, JS;
+CSS3: Layouts Responsivos;
+JavaScript: ReactJS, Typescript;
+ReactJS: API Calls, React Hooks, Styled Components, Forms, Libs & Componentização;
+
+Familiarizado com:
+Git, GitHub;
+JSON, XML;
