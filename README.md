@@ -1,6 +1,6 @@
 ## Hi there good to see you in my space, you are welcome 👋
 
-- 🔭 I’m currently working on software engineer, performer fullstack form by @rocketseat
+- 🔭 I’m currently software engineer, performer fullstack form by @rocketseat
 - 🌱 I’m currently learning about the platform @ServiceNow and studying another technologies like - React.js, Node.js, MySql and more...
 - 📫 How to reach me:
 - ------------------------------------------------------------------------------------------------------
