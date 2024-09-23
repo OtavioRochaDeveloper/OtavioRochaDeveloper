@@ -1,7 +1,7 @@
 ## Hi there good to see you in my space, you are welcome 👋
 
 - 🔭 I’m currently software engineer, performer fullstack form by @rocketseat
-- 🌱 I’m currently learning about the platform @ServiceNow and studying another technologies like - React.js, Node.js, MySql and more...
+- 🌱 I’m currently learning technologies like -Java with springboot, React.js, Node.js and Bootstrap; 
 - 📫 How to reach me:
 - ------------------------------------------------------------------------------------------------------
 - <a href="https://https://www.linkedin.com/in/otavio-custodio-7b28b122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -9,7 +9,7 @@
 - ------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact: just an enthusiasm of development and games.
 
-- 👌 Software engineer -
+- 🏫 Software engineer -
 --------------------------------------------------------------------------------------------------------
 
 <div style="display: inline_block"><br>
@@ -23,11 +23,13 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 BACK-END;
 
+Java ; Springboot;
 Node.JS: Express, Typescript;
 Banco de dados: MSSQL, MySQL;
 
 FRONT-END;
 
+Bootstrap;
 HTML5, JS;
 CSS3: Layouts Responsivos;
 JavaScript: ReactJS, Typescript;
@@ -35,4 +37,4 @@ ReactJS: API Calls, React Hooks, Styled Components, Forms, Libs & Componentizaç
 
 Familiarizado com:
 Git, GitHub;
-JSON, XML;
+JSON.
