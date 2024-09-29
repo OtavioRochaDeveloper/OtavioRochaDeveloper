@@ -1,7 +1,7 @@
 ## Hi there good to see you in my space, you are welcome 👋
 
 - 🔭 I’m currently software engineer, performer fullstack form by @rocketseat
-- 🌱 I’m currently learning technologies like -Java with springboot, React.js, Node.js and Bootstrap; 
+- 🌱 I’m currently learning technologies like -SaaS, Next.js, RBAC
 - 📫 How to reach me:
 - ------------------------------------------------------------------------------------------------------
 - <a href="https://https://www.linkedin.com/in/otavio-custodio-7b28b122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
