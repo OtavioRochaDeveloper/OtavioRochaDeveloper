@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning technologies like -SaaS, Next.js, RBAC
 - 📫 How to reach me:
 - ------------------------------------------------------------------------------------------------------
-- <a href="https://https://www.linkedin.com/in/otavio-custodio-7b28b122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href="https://https://https://www.linkedin.com/in/otavio-rocha-7b28b122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - <a href = "mailto:otaviorocha36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - ------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact: just an enthusiasm of development and games.
