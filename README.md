@@ -20,16 +20,15 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 BACK-END;
 
-Java ; Springboot;
 Node.JS: Express, Typescript;
-Banco de dados: MSSQL, MySQL;
+Banco de dados: PostgreeSQL, MySQL;
 
 FRONT-END;
 
 Bootstrap;
 HTML5, JS;
 CSS3: Layouts Responsivos;
-JavaScript: ReactJS, Typescript;
+JavaScript: ReactJS, Typescript, React Native;
 ReactJS: API Calls, React Hooks, Styled Components, Forms, Libs & Componentização;
 
 Familiarizado com:
