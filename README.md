@@ -31,8 +31,6 @@ React Native
 
 Bootstrap & Layouts Responsivos
 
-Outros
-
 Git & GitHub
 
 Integrações via API REST
