@@ -1,9 +1,9 @@
 🌟 Otávio Rocha
 👋 Bem-vindo ao meu espaço!
 
-Sou Engenheiro de Software e Desenvolvedor Full Stack, com formação pela Rocketseat. Minha experiência abrange o ciclo completo de desenvolvimento de aplicações web e mobile, desde o front-end e back-end até a gestão de banco de dados.
+Sou Engenheiro de Software com experiencia em bootcamp pela Rocketseat. Minha experiência abrange o ciclo completo de desenvolvimento de aplicações web e mobile, desde o front-end e back-end até a gestão de banco de dados.
 
-Atualmente, estou cursando Engenharia de Software na Cruzeiro do Sul, o que me permite unir a teoria acadêmica com a prática de mercado. Sigo em constante aprendizado, focado na criação de projetos que combinam boas práticas, escalabilidade e um design moderno.
+Atualmente, estou cursando Engenharia de Software na Cruzeiro do Sul, o que me permite unir a teoria acadêmica com a prática de mercado. 
 
 🚀 Tecnologias & Ferramentas
 
