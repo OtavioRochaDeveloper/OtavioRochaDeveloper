@@ -50,17 +50,17 @@ Estou sempre aprimorando essas habilidades e explorando novas tecnologias como N
 
 Aqui estão alguns dos meus projetos mais relevantes, com links diretos para os repositórios. Cada um demonstra habilidades específicas e foi desenvolvido com foco em boas práticas (como clean code, testes e documentação).
 
-### 1. 🔗 [Frontend com React.js](https://github.com/OtavioRochaDeveloper/frontend-react)
+### 1. 🔗 [Controle Financeiro ](https://github.com/OtavioRochaDeveloper/DT-MONEY)
    - **Descrição**: Uma aplicação web responsiva para gerenciamento de tarefas, utilizando React com Hooks e Styled Components. Inclui autenticação, CRUD completo e integração com API externa.
    - **Tecnologias**: React, TypeScript, Axios, CSS-in-JS.
    - **Destaques**: Componentização reutilizável, otimização de performance com React.memo.
 
-### 2. 🔗 [Backend com Node.js](https://github.com/OtavioRochaDeveloper/backend-node)
+### 2. 🔗 [Backend da Aplicação de Controle de Notas ](https://github.com/OtavioRochaDeveloper/Backend-com-NODEjs)
    - **Descrição**: API RESTful robusta para um sistema de e-commerce, com autenticação, validação de dados e integração com banco de dados.
    - **Tecnologias**: Node.js, Express, PostgreSQL, JWT, bcrypt.
    - **Destaques**: Estrutura MVC, tratamento de erros avançado, documentação com Swagger.
 
-### 3. 🔗 [Rocket Notes - API](https://github.com/OtavioRochaDeveloper/rocket-notes-api)
+### 3. 🔗 [Notes - Front end ](https://github.com/OtavioRochaDeveloper/Frontend-com-REACTjs)
    - **Descrição**: API para um app de anotações, inspirado no bootcamp Rocketseat. Permite criar, editar e deletar notas com tags e links.
    - **Tecnologias**: Node.js, Express, SQLite (ou PostgreSQL), Multer para uploads.
    - **Destaques**: Autenticação segura, relacionamentos complexos no banco de dados.
