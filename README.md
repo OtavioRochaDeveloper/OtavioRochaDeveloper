@@ -1,22 +1,8 @@
-# 🌟 Otavio da Rocha
-
-<div align="center">
-  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif]" alt="Bem-vindo" width="400"/>
-</div>
-
 ## 👋 Bem-vindo ao meu portfolio no GitHub!
 
 Olá! Sou **Otávio da Rocha**, um **Engenheiro de Software** com experiência prática adquirida através do bootcamp da **Rocketseat**. Minha jornada abrange o ciclo completo de desenvolvimento de aplicações web e mobile, desde o front-end e back-end até a gestão de bancos de dados, sempre focando em soluções eficientes e escaláveis.
 
 Atualmente, estou cursando **Engenharia de Software na Cruzeiro do Sul**, o que me permite integrar teoria acadêmica com práticas do mercado. Adoro resolver problemas complexos, aprender novas tecnologias e contribuir para projetos open-source. Estou sempre em busca de oportunidades para crescer e colaborar em equipes inovadoras!
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioRochaDeveloper&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRochaDeveloper&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -68,19 +54,17 @@ Aqui estão alguns dos meus projetos mais relevantes, com links diretos para os 
    - **Descrição**: Uma aplicação web responsiva para gerenciamento de tarefas, utilizando React com Hooks e Styled Components. Inclui autenticação, CRUD completo e integração com API externa.
    - **Tecnologias**: React, TypeScript, Axios, CSS-in-JS.
    - **Destaques**: Componentização reutilizável, otimização de performance com React.memo.
-   - ![Screenshot](https://via.placeholder.com/300x200?text=Screenshot+do+Projeto)
 
 ### 2. 🔗 [Backend com Node.js](https://github.com/OtavioRochaDeveloper/backend-node)
    - **Descrição**: API RESTful robusta para um sistema de e-commerce, com autenticação, validação de dados e integração com banco de dados.
    - **Tecnologias**: Node.js, Express, PostgreSQL, JWT, bcrypt.
    - **Destaques**: Estrutura MVC, tratamento de erros avançado, documentação com Swagger.
-   - ![Screenshot](https://via.placeholder.com/300x200?text=Screenshot+do+Projeto) 
 
 ### 3. 🔗 [Rocket Notes - API](https://github.com/OtavioRochaDeveloper/rocket-notes-api)
    - **Descrição**: API para um app de anotações, inspirado no bootcamp Rocketseat. Permite criar, editar e deletar notas com tags e links.
    - **Tecnologias**: Node.js, Express, SQLite (ou PostgreSQL), Multer para uploads.
    - **Destaques**: Autenticação segura, relacionamentos complexos no banco de dados.
-   - ![Screenshot](https://via.placeholder.com/300x200?text=Screenshot+do+Projeto) 
+  
 
 *(Mais projetos no meu [repositório principal](https://github.com/OtavioRochaDeveloper?tab=repositories)! Sinta-se à vontade para explorar e contribuir.)*
 
