@@ -1,7 +1,7 @@
 # 🌟 Otavio da Rocha
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAG6YRD3UrY/gQJrYpl10hiNOX8eEDMq4g/edit?utm_content=DAG6YRD3UrY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Bem-vindo" width="400"/>
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif]" alt="Bem-vindo" width="400"/>
 </div>
 
 ## 👋 Bem-vindo ao meu portfolio no GitHub!
