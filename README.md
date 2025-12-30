@@ -1,8 +1,8 @@
 ## 👋 Bem-vindo ao meu portfolio no GitHub!
 
-Olá! Sou **Otávio da Rocha**, um **Engenheiro de Software** com experiência prática adquirida através do bootcamp da **Rocketseat**. Minha jornada abrange o ciclo completo de desenvolvimento de aplicações web e mobile, desde o front-end e back-end até a gestão de bancos de dados, sempre focando em soluções eficientes e escaláveis.
+Olá! Sou **Otávio da Rocha**, um **Engenheiro de Software** com foco em desenvolvimento Full Stack, atuando com React, TypeScript, Node.js e APIs REST. Tenho formação prática pela Rocketseat, onde desenvolvi aplicações completas — do front-end ao back-end — incluindo integração com bancos de dados relacionais e NoSQL.
 
-Atualmente, estou cursando **Engenharia de Software na Cruzeiro do Sul**, o que me permite integrar teoria acadêmica com práticas do mercado. Adoro resolver problemas complexos, aprender novas tecnologias e contribuir para projetos open-source. Estou sempre em busca de oportunidades para crescer e colaborar em equipes inovadoras!
+Atualmente curso Engenharia de Software na Cruzeiro do Sul, unindo fundamentos acadêmicos a projetos reais que reforçam minha habilidade de construir soluções escaláveis, bem estruturadas e orientadas a boas práticas.
 
 ## 🚀 Tecnologias & Ferramentas
 
